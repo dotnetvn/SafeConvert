@@ -1,0 +1,10 @@
+E:\congdongdotnet\SafeConvert\SafeConvert\bin\Debug\SafeConvert.dll
+E:\congdongdotnet\SafeConvert\SafeConvert\bin\Debug\SafeConvert.pdb
+E:\congdongdotnet\SafeConvert\SafeConvert\obj\Debug\SafeConvert.dll
+E:\congdongdotnet\SafeConvert\SafeConvert\obj\Debug\SafeConvert.pdb
+D:\cong-dong-dotnet-com\projects\SafeConvert\SafeConvert\bin\Debug\SafeConvert.dll
+D:\cong-dong-dotnet-com\projects\SafeConvert\SafeConvert\bin\Debug\SafeConvert.pdb
+D:\cong-dong-dotnet-com\projects\SafeConvert\SafeConvert\obj\Debug\SafeConvert.csprojResolveAssemblyReference.cache
+D:\cong-dong-dotnet-com\projects\SafeConvert\SafeConvert\obj\Debug\SafeConvert.dll
+D:\cong-dong-dotnet-com\projects\SafeConvert\SafeConvert\obj\Debug\SafeConvert.pdb
+E:\congdongdotnet\SafeConvert\SafeConvert\obj\Debug\SafeConvert.csprojResolveAssemblyReference.cache
