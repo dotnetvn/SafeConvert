@@ -5,7 +5,7 @@ The SafeConvert is a .NET library used to convert data between data types safely
 ### Install and Requirements
 In order to use this library, your application needs the .NET Framework 3.5 or higher. If okay, you can install via two following ways:
 * Via Nuget: ```Install-Package SafeConvert```
-* Via Github: ```https://github.com/congdongdotnet/SafeConvert.git```
+* Via Github: ```git clone https://github.com/congdongdotnet/SafeConvert.git```
 
 ### Usages
 After refering to the SafeConvert library, remember that you need to include the library by __using__ keyword:
