@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeConvert", "SafeConvert\SafeConvert.csproj", "{79D0814A-DA1E-4984-A43B-0DD57C2471CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeConvert.Tests", "SafeConvert.Tests\SafeConvert.Tests.csproj", "{81192E00-14C2-4486-80C5-6D8E81F68A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{79D0814A-DA1E-4984-A43B-0DD57C2471CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D0814A-DA1E-4984-A43B-0DD57C2471CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D0814A-DA1E-4984-A43B-0DD57C2471CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81192E00-14C2-4486-80C5-6D8E81F68A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81192E00-14C2-4486-80C5-6D8E81F68A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81192E00-14C2-4486-80C5-6D8E81F68A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81192E00-14C2-4486-80C5-6D8E81F68A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

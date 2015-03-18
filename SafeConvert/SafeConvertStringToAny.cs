@@ -1,9 +1,11 @@
-﻿namespace SafeConvert
+﻿using System;
+
+namespace SafeConvert
 {
 	using System.Reflection;
 
 	/// <summary>
-	/// This class implements converting from string type to short type
+	/// This class implements converting from string type to any type
 	/// </summary>
 	public class SafeConvertStringToAny<T> : ISafeConvert<string, T>
 	{
@@ -17,7 +19,8 @@
 		{
 			if (data != null)
 			{
-				var tryParseMethodInfo = typeof(T).GetMethod("TryParse", BindingFlags.Public | BindingFlags.Static);
+				Type[] argTypes = { typeof(string), typeof(T).MakeByRefType() };
+				var tryParseMethodInfo = typeof(T).GetMethod("TryParse", argTypes);
 				if(tryParseMethodInfo != null)
 				{
 					var parameters = new object[] { data, null };

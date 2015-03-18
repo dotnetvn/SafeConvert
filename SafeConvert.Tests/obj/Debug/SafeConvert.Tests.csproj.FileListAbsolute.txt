@@ -1,0 +1,9 @@
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\SafeConvert.Tests.dll
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\SafeConvert.Tests.pdb
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\nunit.framework.dll
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\SafeConvert.dll
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\SafeConvert.pdb
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\bin\Debug\nunit.framework.xml
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\obj\Debug\SafeConvert.Tests.csprojResolveAssemblyReference.cache
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\obj\Debug\SafeConvert.Tests.dll
+E:\congdongdotnet\SafeConvert\SafeConvert.Tests\obj\Debug\SafeConvert.Tests.pdb
